@@ -1,6 +1,4 @@
-# Notes-App
-
-### NOTE: Updated version of this project: https://github.com/mudit999/Notes-App-Frontend
+# DevTown-Intership-Task-Notes-App
 
 Notes App is a safe, user friendly Web Note taking app.
 
